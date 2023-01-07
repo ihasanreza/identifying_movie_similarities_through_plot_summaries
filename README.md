@@ -23,6 +23,3 @@ To run this project, you will need to have the following libraries installed:
 * nltk
 * sklearn
 * matplotlib
-
-## Authors
-Hassan R. - [LinkedIn](https://www.linkedin.com/in/ihasanreza/)
