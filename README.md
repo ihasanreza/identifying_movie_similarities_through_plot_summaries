@@ -20,7 +20,7 @@ To run this project, you will need to have the following libraries installed:
 * pandas
 * numpy
 * re
-* nLTK
+* nltk
 * sklearn
 * matplotlib
 
