@@ -1,7 +1,7 @@
 # Identifying Movie Similarities through Plot Summaries
 In this project, we will be using natural language processing (NLP) techniques to analyze movie plot summaries and quantify the similarity between movies. The dataset we will be using contains the titles of the top 100 movies on IMDb as well as each movie's plot summary from both IMDb and Wikipedia.
 
-## Getting Started
+## Methodology
 To begin, we will import and observe the dataset. Then, we will combine the Wikipedia and IMDb plot summaries into a single column for more efficient analysis.
 
 Next, we will apply tokenization and stemming to the text to build context and reduce the words to their root form. We will then combine these processes into a single function for easier use.
